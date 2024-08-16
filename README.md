@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Carlos75clc
+- 👀 I’m interested in code, cyber and cars.
+- 🌱 I’m currently learning in ESILV.
+- 💞️ I’m looking to collaborate on an IA with image recognition.
+- ⚡ Fun fact: water can get wet x)
